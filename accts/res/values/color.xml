@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#FFD306</color>
+    <color name="silver">#00ffffff</color>
+    <color name="darkgray">#808080FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FE2E2E</color>
+    <color name="ltgray">#4B8A08</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="focused">#ffff44ff</color>
+
+</resources>
